@@ -1,0 +1,23 @@
+{
+  "name": "triatletacontaras",
+  "version": "1.0.0",
+  "description": "Página sobre el triatleta globero Luis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luisherediaj/triatletacontaras.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luisherediaj/triatletacontaras/issues"
+  },
+  "homepage": "https://github.com/Luisherediaj/triatletacontaras#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
