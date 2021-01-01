@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+    ul{
+        display: flex;
+        text-align: center;
+        padding-top: 2rem;
+    }
+
+    li{
+        margin-right: 2rem;
+        /* color: ivory; */
+        font-weight: bold;
+        font-size: 1.3rem;
+    }
