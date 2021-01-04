@@ -25,6 +25,20 @@ ul {
 li {
     padding-right: 2rem;
     color: blanchedalmond;
+    text-shadow: 1px 1px rgb(80, 56, 56);
+}
+
+ul li a:hover{
+    background: orange; 
+    color:white; 
+    border-radius: 6px;
+    border: 2px solid #6666d4;;
+   }
+
+ul li a:active{
+ background:red; 
+ color:white; 
+ border-radius: aquamarine;
 }
 
 .logoHeader{
