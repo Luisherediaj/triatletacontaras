@@ -20,4 +20,8 @@ app.get("/", (req, res) => {
     res.render("main", {layout: "home"});
 });
 
+app.get("/sobremi", (req, res) => {
+    res.render("templateSobremi", {layout: "sobremi"});
+});
+
 app.listen(port, () => console.log(`App listening to port ${port}`));

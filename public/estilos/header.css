@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+header{
+    background-color: rgb(75, 73, 73);
+}
+
+nav{
+    display: flex;
+    justify-content: space-between; 
+}
+
+ul {
+    display: flex;
+    padding-right: 5rem;
+    padding-top: 1rem;
+    align-items: left;
+    list-style: none;
+}
+
+li {
+    padding-right: 2rem;
+    color: blanchedalmond;
+}
+
+.logoHeader{
+    padding-top: auto;
+    padding-left: 2rem;
+    width: 9rem;
+}
