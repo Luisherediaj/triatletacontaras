@@ -7,7 +7,8 @@
 
 #columnasSobremi{
     column-count:3;
-    margin-top: 1.5rem;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
     column-gap: 2rem;
     margin-left: 1rem;
     margin-right: 1rem;
